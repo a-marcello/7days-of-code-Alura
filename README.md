@@ -1,2 +1,2 @@
-# 7days-of-code-Alura
-exercícios diários 
+<h1>7days-of-code-Alura</h1>
+> daily exercises 💻
